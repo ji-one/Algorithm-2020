@@ -28,5 +28,8 @@ int main(void)
 
     cout<<(b-sqrt(2*a-b*b))/2<<'\n'<<(b+sqrt(2*a-b*b))/2;
 
+    fclose(stdin);
+    fclose(stdout);
+    
     return 0;
 }
