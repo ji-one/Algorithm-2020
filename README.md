@@ -5,5 +5,5 @@
 조환규 교수님
 
 #### assginment list   
-> No.1 Cards
+- No.1 Cards
 
