@@ -7,4 +7,8 @@
 #### assginment list   
 - No.1 Cards 
 - No.2 Station  
+- No.3 station tube  
+- No.4 All-In  
+- No.5 Oil search  
+- No.6 Tram Ticket  
 
