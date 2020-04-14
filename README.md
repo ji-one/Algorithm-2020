@@ -8,7 +8,7 @@
 - No.1 Cards 
 - No.2 Station : divide and conquer 
 - No.3 station tube : divide and conquer 
-- No.4 All-In : greedy algorithm 
-- No.5 Oil search  
+- No.4 All-In : greedy algorithm, divide and conquer
+- No.5 Oil search : divide and conquer
 - No.6 Tram Ticket : dynamic programming
 
