@@ -11,4 +11,4 @@
 - No.4 All-In : greedy algorithm, divide and conquer
 - No.5 Oil search : divide and conquer
 - No.6 Tram Ticket : dynamic programming
-
+- No.7 gLCS : dynamic programming   
