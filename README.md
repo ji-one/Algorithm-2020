@@ -12,3 +12,4 @@
 - No.5 Oil search : divide and conquer
 - No.6 Tram Ticket : dynamic programming
 - No.7 gLCS : dynamic programming   
+- No.8 Money Game : dynamic programming
