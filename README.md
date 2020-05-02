@@ -13,3 +13,4 @@
 - No.6 Tram Ticket : dynamic programming
 - No.7 gLCS : dynamic programming   
 - No.8 Money Game : dynamic programming
+- No.9 Tube : dynamic programming  
