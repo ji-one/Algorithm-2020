@@ -16,3 +16,4 @@
 - No.9 Tube : dynamic programming  
 - No.10 Detroit : backtracking, branch & bound  
 - No.11 Drone : backtracking, branch & bound  
+- No.12 Diet : backtracking, branch & bound  
