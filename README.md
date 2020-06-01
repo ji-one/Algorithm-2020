@@ -5,7 +5,7 @@
 조환규 교수님
 
 #### assginment list   
-- No.1 Cards 
+- No.1 Cards : Math  
 - No.2 Station : divide and conquer 
 - No.3 station tube : divide and conquer 
 - No.4 All-In : greedy algorithm, divide and conquer
@@ -17,3 +17,4 @@
 - No.10 Detroit : backtracking, branch & bound  
 - No.11 Drone : backtracking, branch & bound  
 - No.12 Diet : backtracking, branch & bound  
+- No.13 Bucket  
