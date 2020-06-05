@@ -3,7 +3,7 @@
 ----
 
 #### Problem solving with algorithms    
-- No.1 Cards : Math  
+- No.1 Cards : math  
 - No.2 Station : divide and conquer 
 - No.3 station tube : divide and conquer 
 - No.4 All-In : greedy algorithm, divide and conquer
