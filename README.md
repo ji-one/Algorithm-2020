@@ -1,4 +1,4 @@
-# [Algorithm-2020](http://topaz.cs.pusan.ac.kr/~algo2020/)
+# Algorithm-2020
 
 #### Problem solving with algorithms    
 - No.1 Cards : math  
