@@ -1,5 +1,4 @@
 # [Algorithm-2020](http://topaz.cs.pusan.ac.kr/~algo2020/)
-###### 부산대 2020 알고리즘 수업기록
 ----
 
 #### Problem solving with algorithms    
