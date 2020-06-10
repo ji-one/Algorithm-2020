@@ -16,3 +16,4 @@
 - No.11 Drone : backtracking, branch & bound  
 - No.12 Diet : backtracking, branch & bound  
 - No.13 Bucket : bfs  
+- No.14 Marathon : dijkstra  
