@@ -3,7 +3,7 @@
 #### Problem solving with algorithms    
 - No.1 Cards : math  
 - No.2 Station : divide and conquer 
-- No.3 station tube : divide and conquer 
+- No.3 station tube : divide and conquer **  
 - No.4 All-In : greedy algorithm, divide and conquer
 - No.5 Oil search : divide and conquer
 - No.6 Tram Ticket : dynamic programming
@@ -15,4 +15,4 @@
 - No.12 Diet : backtracking, branch & bound  
 - No.13 Bucket : bfs  
 - No.14 Marathon : dijkstra  
-- No.15 Lockdown : cut vertex, dfs  
+- No.15 Lockdown : cut vertex, dfs  **
