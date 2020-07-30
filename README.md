@@ -1,4 +1,4 @@
-# Algorithm-2020
+# Algorithm_2020
 
 #### Problem solving with algorithms    
 - No.1 Cards : math  
